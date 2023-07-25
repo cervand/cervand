@@ -14,7 +14,7 @@ I love exploring the intersection of technology, problem-solving, and teamwork. 
 Outside of programming, I love photography and cooking! 
 
 ## Let's Connect! 🤝
-If you're interested in collaborating or have any questions, feel free to reach out! You can connect with me on [LinkedIn](https://www.linkedin.com/in/andres-ac-cervantes/) or send me an email at [andres.ac.cervantes@gmail.com](mailto:andres.ac.cervantes@gmail.com).
+If you're interested in collaborating or have any questions, feel free to reach out! You can connect with me on LinkedIn or on email!
 
 Looking forward to connecting with fellow tech enthusiasts! 🚀
 
