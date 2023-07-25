@@ -4,12 +4,15 @@
 I'm Andres Cervantes, a Computer Engineering graduate from the University of California, Irvine.
 
 ## About Me 👨‍💻
-I love diving into the anything tech related. I enjoy tinkering with computer hardware and software but my favorite topics are Machine Learning and app development! During my time at UC Irvine, I had some fantastic experiences that helped shape my skills and knowledge.
+During my time at UC Irvine, I had some fantastic experiences that helped shape my skills and knowledge. I love diving into the anything tech related. I enjoy tinkering with computer hardware and software but my favorite topics are Machine Learning and app development! 
 
-## Skills & Interests 🏓
+## Skills 🔨
 I'm proficient in Python, C, Java. I have worked with Kotlin, CSS, HTML, SQL, RISC-V ISA, and Javascript and feel comfortable enough on my own, but would not say that I am proficient in it. Nonetheless, my current personal projects involve using these languages so I am always learning. My coursework at UC Irvine covered a wide range of topics, including computer networks, system software, object-oriented programming, data management, machine learning, computer architecture, and more.
 
-I love exploring the intersection of technology, problem-solving, and teamwork. My favorite topics are machine learning, app development, and cloud computing! Outside of programming, I love photography and cooking! 
+## Interests 🥤
+I love exploring the intersection of technology, problem-solving, and teamwork. You can always expect me to keep up with the latest technology-related trends. Right now I am currently really into the world of autonomy and computational photography. 
+
+Outside of programming you can find me cooking, at the beach, or trying to improve my photography. 
 
 ## Let's Connect! 🤝
 If you're interested in collaborating or have any questions, feel free to reach out! You can connect with me on LinkedIn or on email!
