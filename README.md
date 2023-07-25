@@ -1,4 +1,4 @@
-![Githeader](https://github.com/cervand/cervand/assets/95746489/659f702b-2894-4a2f-b261-c53f28298296)
+![Githeader (2)](https://github.com/cervand/cervand/assets/95746489/6b521001-1b71-44b8-bb7c-99aaedefc252)
 
 # Hi there! 👋
 I'm Andres Cervantes, a Computer Engineering graduate from the University of California, Irvine.
