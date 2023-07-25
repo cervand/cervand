@@ -9,9 +9,7 @@ I love diving into the anything tech related. I enjoy tinkering with computer ha
 ## Skills & Interests 🏓
 I'm proficient in Python, C, Java. I have worked with Kotlin, CSS, HTML, SQL, RISC-V ISA, and Javascript and feel comfortable enough on my own, but would not say that I am proficient in it. Nonetheless, my current personal projects involve using these languages so I am always learning. My coursework at UC Irvine covered a wide range of topics, including computer networks, system software, object-oriented programming, data management, machine learning, computer architecture, and more.
 
-I love exploring the intersection of technology, problem-solving, and teamwork. I'm passionate about machine learning, concurrent programming, AWS, embedded systems, and Linux.
-
-Outside of programming, I love photography and cooking! 
+I love exploring the intersection of technology, problem-solving, and teamwork. My favorite topics are machine learning, app development, and cloud computing! Outside of programming, I love photography and cooking! 
 
 ## Let's Connect! 🤝
 If you're interested in collaborating or have any questions, feel free to reach out! You can connect with me on LinkedIn or on email!
