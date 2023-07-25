@@ -10,7 +10,7 @@ During my time at UC Irvine, I had some fantastic experiences that helped shape 
 I'm proficient in Python, C, Java. I have worked with Kotlin, CSS, HTML, SQL, RISC-V ISA, and Javascript and feel comfortable enough on my own, but would not say that I am proficient in it. Nonetheless, my current personal projects involve using these languages so I am always learning. My coursework at UC Irvine covered a wide range of topics, including computer networks, system software, object-oriented programming, data management, machine learning, computer architecture, and more.
 
 ## Interests 🥤
-I love exploring the intersection of technology, problem-solving, and teamwork. You can always expect me to keep up with the latest technology-related trends. Right now I am currently really into the world of autonomy and computational photography. 
+I love exploring the intersection of technology, problem-solving, and teamwork. In fact, the reason I majored in Computer Engineering is so I can learn just about everything about how a computer works, from the bare metals and circuits to registers and all the way up to high level programming. You can always expect me to keep up with the latest technology-related trends. Right now I am currently really into the world of autonomy and computational photography. 
 
 Outside of programming you can find me cooking, at the beach, or trying to improve my photography. 
 
