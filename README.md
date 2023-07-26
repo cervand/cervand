@@ -12,7 +12,7 @@ I'm proficient in Python, C, Java. I have worked with Kotlin, CSS, HTML, SQL, RI
 ## Interests 🥤
 I love exploring the intersection of technology, problem-solving, and teamwork. In fact, the reason I majored in Computer Engineering is so I can learn just about everything about how a computer works, from the bare metals and circuits to registers and all the way up to high level programming. You can always expect me to keep up with the latest technology-related trends. Right now I am really into the world of autonomy and computational photography. 
 
-Outside of programming you can find me doing concepts of apps, cooking, at the beach, or trying to improve my photography. 
+Outside of programming you can find me practicing graphic design, cooking, at the beach, or trying to improve my photography. 
 
 ## Let's Connect! 🤝
 If you're interested in collaborating or have any questions, feel free to reach out! You can connect with me on LinkedIn or on email!
