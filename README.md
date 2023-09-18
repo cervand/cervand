@@ -1,7 +1,7 @@
 ![Githeader (2)](https://github.com/cervand/cervand/assets/95746489/6b521001-1b71-44b8-bb7c-99aaedefc252)
 
 # Hi there! 👋
-I'm Andres Cervantes, a Computer Engineering graduate from the University of California, Irvine.
+I'm Andres Cervantes, welcome to my GitHub!
 
 ## About Me 👨‍💻
 During my time at UC Irvine, I had some fantastic experiences that helped shape my skills and knowledge. I love diving into the anything tech related. I enjoy tinkering with computer hardware and software but my favorite topics are Machine Learning and app development! 
